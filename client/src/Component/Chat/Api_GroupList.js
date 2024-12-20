@@ -1,0 +1,101 @@
+const Api_GroupList=[
+{
+    _id:"1",
+    GroupDetail:{
+        "GroupName":"Frontend",
+        "Groupimg":"https://miro.medium.com/v2/resize:fit:828/format:webp/0*M4bxiCIjcTK-2Xr6.jpeg",
+        "GroupCreatedTime":"",
+        "GroupAdmin":"",
+        "memberList":"",
+    }
+},
+{
+    _id:"2",
+    GroupDetail:{
+        "GroupName":"CodeCrafters",
+        "Groupimg":"https://www.protocol.com/media-library/man-carrying-website-elements.png?id=29965215&width=1245&height=700&quality=85&coordinates=0%2C0%2C0%2C0",
+        "GroupCreatedTime":"",
+        "GroupAdmin":"",
+        "memberList":"",
+    }
+},
+{
+    _id:"3",
+    GroupDetail:{
+        "GroupName":"ByteMasters",
+        "Groupimg":"https://d117h1jjiq768j.cloudfront.net/images/default-source/blogs/2018/2018-12/developers-vs-low-code-what-they-think-and-why_870x433.jpg?sfvrsn=49bddde3_1",
+        "GroupCreatedTime":"",
+        "GroupAdmin":"",
+        "memberList":"",
+    }
+},{
+    _id:"4",
+    GroupDetail:{
+        "GroupName":"TechnoTribe",
+        "Groupimg":"https://images.unsplash.com/photo-1498049860654-af1a5c566876?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "GroupCreatedTime":"",
+        "GroupAdmin":"",
+        "memberList":"",
+    }
+},{
+    _id:"5",
+    GroupDetail:{
+        "GroupName":"SolarSpectra",
+        "Groupimg":"https://code.google.com/images/developers.png",
+        "GroupCreatedTime":"",
+        "GroupAdmin":"",
+        "memberList":"",
+    }
+},{
+    _id:"6",
+    GroupDetail:{
+        "GroupName":"Mitro",
+        "Groupimg":"https://images.unsplash.com/photo-1522199755839-a2bacb67c546?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "GroupCreatedTime":"",
+        "GroupAdmin":"",
+        "memberList":"",
+    }
+},
+{
+    _id:"7",
+    GroupDetail:{
+        "GroupName":"Web developer",
+        "Groupimg":"https://www.thinknexttraining.com/images/Web-Development-Course-in-Chandigarh-mob.jpg",
+        "GroupCreatedTime":"",
+        "GroupAdmin":"",
+        "memberList":"",
+    }
+},
+{
+    _id:"8",
+    GroupDetail:{
+        "GroupName":"DSA",
+        "Groupimg":"https://incubator.ucf.edu/wp-content/uploads/2023/07/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1.jpg",
+        "GroupCreatedTime":"",
+        "GroupAdmin":"https://www.simplilearn.com/ice9/free_resources_article_thumb/full_stack_banner.jpg",
+        "memberList":"",
+    }
+},
+{
+    _id:"9",
+    GroupDetail:{
+        "GroupName":"AI club",
+        "Groupimg":"https://images.unsplash.com/photo-1455894127589-22f75500213a?q=80&w=1087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "GroupCreatedTime":"",
+        "GroupAdmin":"",
+        "memberList":"",
+    }
+},
+{
+    _id:"10",
+    GroupDetail:{
+        "GroupName":"Developer Week",
+        "Groupimg":"https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "GroupCreatedTime":"",
+        "GroupAdmin":"",
+        "memberList":"",
+    }
+},
+
+]
+export default Api_GroupList
